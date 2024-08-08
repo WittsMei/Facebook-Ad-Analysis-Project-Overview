@@ -8,7 +8,7 @@ Check for any missing values and replace the values in the 'xyz_campaign_id' col
 
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/0f6faf66-fb49-4599-845c-b9faa8b5a9af">
 
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/0746a51b-e569-4aa7-b669-aae59c86eb96">
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/22e6d8e2-fb8b-4aa2-8685-d22b7de71c0d">
 
 
 
