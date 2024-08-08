@@ -1,6 +1,6 @@
 # Facebook-campaign-analysis-with-recommendations.
 
-## The goal of this project is to investigate the performance of marketing campaigns at Facebook in order to surface recommendations on marketing budget allocation across future campaign categories.
+## The goal of this project is to investigate the performance of marketing campaigns at Facebook in order to surface recommendations on marketing budget allocation across future campaign categories. Social Media Ad Campaign marketing is a leading source of Sales Conversion
 
 ## Data Cleaning
 
