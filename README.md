@@ -15,4 +15,4 @@ Check for any missing values and replace the values in the 'xyz_campaign_id' col
 For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
 
 
-## Insights Summary
+## North Star Metics and Dimensions
