@@ -6,5 +6,11 @@
 
 Check for any missing values and replace the values in the 'xyz_campaign_id' column with 'Campaign_c', 'Campaign_b', and 'Campaign_a' for convenience.
 
+<img width="543" alt="image" src="https://github.com/user-attachments/assets/0f6faf66-fb49-4599-845c-b9faa8b5a9af">
+
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/7322329b-578d-4517-b3ef-68829019f8fc">
+
+
+
 To view more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
 
