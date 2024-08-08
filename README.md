@@ -2,4 +2,4 @@
 
 ## Data Cleaning
 
-To access more details, click [here]()
+To view more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
