@@ -25,7 +25,7 @@ Identify any missing values and analyze the correlation between key metrics and 
 
 ## Recommendations & Next Step
 - Optimize gender targeting by maintaining strong exposure to both male and female audiences, but prioritize males for conversion campaigns or retargeting efforts.
-- Increase ad spend allocation towards the top-performing interest segments (101, 29, 16, 15, 107) to drive more cost-efficient conversions.
+- Conder removing ad spend in interest segments (7, 8, 19, 24, 25, 30, 63, 65), which are about 0 purchase, reallocating the towards the top-performing interest segments (101, 29, 16, 15, 107) to drive more cost-efficient conversions.
 - Gradually shift a larger portion of the age-based ad budget from the 45-49 segment to the 30-34 segment, which has proven to be more effective in driving purchases.
 - Conduct further analysis on the customer journey and messaging resonance to understand why males exhibit higher purchase conversion rates and leverage those insights for campaign optimization.
 - Implement ongoing campaign monitoring and optimization based on real-time performance data to continually refine audience targeting and messaging for maximum cost efficiency and return on ad spend.
