@@ -4,11 +4,10 @@
 
 ## Data Cleaning
 
-Identify any missing values and determine the correlation between key metrics and dimensions. For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
+Identify any missing values and determine the correlation between part of key metrics and dimensions. For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
 
-<img width="543" alt="image" src="https://github.com/user-attachments/assets/0f6faf66-fb49-4599-845c-b9faa8b5a9af">
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/cfa54645-d6a4-46bb-828b-2df8eea5fabb">
 
-<img width="544" alt="image" src="https://github.com/user-attachments/assets/22e6d8e2-fb8b-4aa2-8685-d22b7de71c0d">
 
 
 
