@@ -4,7 +4,7 @@
 
 ## Data Cleaning
 
-Check for any missing values and, for convenience, replace the values in the 'xyz_campaign_id' column with 'Campaign_c,' 'Campaign_b,' and 'Campaign_a.' For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
+Identify any missing values and determine the correlation between key metrics and dimensions. For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
 
 <img width="543" alt="image" src="https://github.com/user-attachments/assets/0f6faf66-fb49-4599-845c-b9faa8b5a9af">
 
