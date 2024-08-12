@@ -15,7 +15,7 @@ Identify any missing values and analyze the correlation between key metrics and 
 - **Conversion**: Avg purchase, CPA(Cost per Acquisition), Avg spent
 - **Gender Targeting**: Male, Female
 - **Age Targeting**: 30-34, 35-39, 40-44, 45-49
-- **Interest Targeting**: 
+- **Interest Targeting**: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile)
 
 
 
