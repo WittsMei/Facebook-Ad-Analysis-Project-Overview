@@ -1,4 +1,4 @@
-# Facebook-Campaign-Analsis-for-Sales-Conversion-Optimization.
+# Facebook Marketing Insights - Project Overview
 
 ## The goal of this project is to investigate the performance of Facebook marketing campaigns and surface recommendations for future budget allocation across all campaigns, with a focus on maximizing sales conversions through social media advertising.
 
