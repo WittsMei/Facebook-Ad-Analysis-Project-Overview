@@ -9,6 +9,10 @@ Identify any missing values and analyze the correlation between key metrics and 
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/cfa54645-d6a4-46bb-828b-2df8eea5fabb">
 
 
+## Dashboard
+
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/FacebookCampaignPerformanceDsahboard/FacebookadsPerformanceDashboard?publish=yes).
+
 
 
 ## North Star Metics and Dimensions
@@ -45,7 +49,3 @@ Identify any missing values and analyze the correlation between key metrics and 
 - Conduct further analysis on the customer journey and messaging resonance to understand why males exhibit higher purchase conversion rates and leverage those insights for campaign optimization.
 - Implement ongoing campaign monitoring and optimization based on real-time performance data to continually refine audience targeting and messaging for maximum cost efficiency and return on ad spend.
 
-
-## Dashboard
-
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/FacebookCampaignPerformanceDsahboard/FacebookadsPerformanceDashboard?publish=yes).
