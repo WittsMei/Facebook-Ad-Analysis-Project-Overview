@@ -46,7 +46,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ### Interest Targeting
 - Under Campaign A, interest segments 7, 8, 19, 24, 25, 30, 63, and 65 resulted in 0 purchases (Approved Conversions). Interestingly, segments 63 and 65 account for the highest spent within the campaign.
-- Interest segment 20 under Campaign A, segments 22 and 27 under Campaign B, and segments 22 and 23 under Campaign C resulted in average purchases (roughly 0.3 - 0.4) in the lowest portion. However, the cost is nearly double or even triple compared to the segments with the highest Avg purchases (Avg Approved Conversions). This indicates that these segments are underperforming in terms of cost-efficiency and may not be providing a good return on investment.
+- Interest segment 20 in Campaign A, along with segments 22 and 27 in Campaign B and segments 22 and 23 in Campaign C, have yielded the lowest average purchases, approximately 0.3 to 0.4, across each campaign. However, the costs for these segments are nearly double or even triple those associated with the segments that have the highest average purchases (Avg Approved Conversions). This indicates that these segments are underperforming in terms of cost-efficiency and may not be delivering a favorable ROI.
 - Across all campaigns, the interests with codes 101, 29, 16, 15, and 107 drove the highest Approved Conversions. Focusing more ad spend on these interest segments could yield a higher return on investment.
 
 
