@@ -12,7 +12,7 @@ Identify any missing values and analyze the correlation between key metrics and 
 
 
 ## North Star Metics and Dimensions
-- **Conversion**: Avg purchase, CPA(Cost per Acquisition)
+- **Conversion**: Avg purchase, CPA(Cost per Acquisition), Avg spent
 - **Gender Targeting**: Male, Female
 - **Age Targeting**: 30-34, 35-39, 40-44, 45-49
 - **Interest Targeting**: 
