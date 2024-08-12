@@ -37,7 +37,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 
 ### Interest Targeting
-- Under Campaign A, interest segments (7, 8, 19, 24, 25, 30, 63, and 65) generated 0 purchases (Approved Conversions).
+- Under Campaign A, interest segments (7, 8, 19, 24, 25, 30, 63, and 65) resulted 0 purchases (Approved Conversions).
 - Across all campaigns, the interests with codes 101, 29, 16, 15, and 107 drove the highest Approved Conversions. Focusing more ad spend on these interest segments could yield a higher return on investment.
 
   
