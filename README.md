@@ -32,7 +32,8 @@ Identify any missing values and analyze the correlation between key metrics and 
 - The 45-49 age group had the highest number of ad clicks. 
 - Despite allocating the highest ad spend to the 45-49 age group, the 30-34 age segment delivered almost twice as many Approved Conversions. Reallocating a larger portion of the budget towards the 30-34 age group could be more cost-effective.
   
-- **Gender Conversion Rates**: The data indicates that male audiences from the campaign_c campaign tend to convert to actual purchases at a higher rate compared to females.
+### Gender Conversion Rates
+- The data indicates that male audiences from the campaign_c campaign tend to convert to actual purchases at a higher rate compared to females.
 
 ## Recommendations & Next Step
 - Optimize gender targeting by maintaining strong exposure to both male and female audiences, but prioritize males for conversion campaigns or retargeting efforts.
