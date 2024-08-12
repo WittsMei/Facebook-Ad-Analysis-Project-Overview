@@ -46,9 +46,6 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 - Interest segment 20 under Campaign A, segments 22 and 27 under Campaign B, and segments 22 and 23 under Campaign C resulted in average purchases (0.3 - 0.4) in the lowest portion. However, the cost is nearly double or even triple compared to the segments with the highest average purchases (Avg Approved Conversions). This indicates that these segments are underperforming in terms of cost-efficiency and may not be providing a good return on investment.
 - Across all campaigns, the interests with codes 101, 29, 16, 15, and 107 drove the highest Approved Conversions. Focusing more ad spend on these interest segments could yield a higher return on investment.
 
-  
-### Gender Conversion Rates
-- The data indicates that male audiences from the campaign_c campaign tend to convert to actual purchases at a higher rate compared to females.
 
 ## Recommendations & Next Step
 - Gradually shift a larger portion of the age-based ad budget from the 45-49 segment to the 30-34 segment, which has proven to be more cost-effective in driving purchases. 
