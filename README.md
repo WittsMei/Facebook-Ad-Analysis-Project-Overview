@@ -51,7 +51,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 ## Recommendations & Next Step
 - Gradually shift a larger portion of the age-based ad budget from the 45-49 segment to the 30-34 segment, which has proven to be more cost-effective in driving purchases. 
 - Optimize gender targeting by maintaining strong exposure to both male and female audiences, but prioritize males for conversion campaigns or retargeting efforts.
-- Remove the budget for interest segments 7, 8, 19, 24, 25, 30, 63, and 65 under Campaign A, as they generated zero purchases (Approved Conversions). Additionally, consider reducing or reallocating ad spend from interest segment 20 in Campaign A, segments 22 and 27 in Campaign B, and segments 22 and 23 in Campaign C due to their low cost-efficiency. Redirect these funds to the top-performing segments (101, 29, 16, 15, and 107) to maximize ROI.
+- Remove the budget for interest segments 7, 8, 19, 24, 25, 30, 63, and 65 under Campaign A, as they have generated zero purchases (Approved Conversions). Additionally, consider reducing or reallocating ad spend from the less cost-efficient segments—20 under Campaign A, 22 and 27 under Campaign B, and 22 and 23 under Campaign C. Redirect these funds to the top-performing segments (101, 29, 16, 15, and 107) to optimize ROI (return on investment).
 - Conduct further analysis on the customer journey and messaging resonance to understand why males exhibit higher purchase conversion rates and leverage those insights for campaign optimization.
 - Implement ongoing campaign monitoring and optimization based on real-time performance data to continually refine audience targeting and messaging for maximum cost efficiency and return on ad spend.
 
