@@ -6,8 +6,8 @@
 
 Identify any missing values and analyze the correlation between key metrics and selected dimensions. For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
 
-<img width="926" alt="image" src="https://github.com/user-attachments/assets/cfa54645-d6a4-46bb-828b-2df8eea5fabb">
-<img width="1626" alt="image" src="https://github.com/user-attachments/assets/1316a7b9-5908-48fc-bcc5-6294f8c253e6">
+<img width="1071" alt="image" src="https://github.com/user-attachments/assets/2525184c-aaca-4993-a2aa-0fb368032672">
+
 
 
 
