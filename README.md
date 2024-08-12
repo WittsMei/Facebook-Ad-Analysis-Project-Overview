@@ -4,7 +4,7 @@
 
 ## Data Cleaning & Exploratory Data Analysis
 
-Identify any missing values and analyze the correlation between key metrics and selected dimensions. For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
+Identify any missing values and analyze the correlation between key numeric metrics. For more details, click [here](https://github.com/WittsMei/Facebook-campaign-analysis-with-recommendations./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
 
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/ba84e0cf-9ac5-4b33-bcac-68bcdeba184c">
 
