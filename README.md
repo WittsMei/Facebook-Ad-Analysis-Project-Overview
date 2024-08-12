@@ -37,7 +37,7 @@ Identify any missing values and analyze the correlation between key metrics and 
 - The data indicates that male audiences from the campaign_c campaign tend to convert to actual purchases at a higher rate compared to females.
 
 ## Recommendations & Next Step
-- Gradually shift a larger portion of the age-based ad budget from the 45-49 segment to the 30-34 segment, which has proven to be more effective in driving purchases.
+- Gradually shift a larger portion of the age-based ad budget from the 45-49 segment to the 30-34 segment, which has proven to be more cost-effective in driving purchases. 
 - Optimize gender targeting by maintaining strong exposure to both male and female audiences, but prioritize males for conversion campaigns or retargeting efforts.
 - Consider reallocating ad spend by removing it from interest segments 7, 8, 19, 24, 25, 30, 63, and 65 under Campaign A, which have near-zero purchases. Additionally, reduce ad spend in interest segment 20 under Campaign A, segments 22 and 27 under Campaign B, and segments 22 and 23 under Campaign C due to their relatively low cost-efficiency. Redirect these funds to the top-performing interest segments (101, 29, 16, 15, and 107) to enhance cost-efficient conversions.
 - Conduct further analysis on the customer journey and messaging resonance to understand why males exhibit higher purchase conversion rates and leverage those insights for campaign optimization.
