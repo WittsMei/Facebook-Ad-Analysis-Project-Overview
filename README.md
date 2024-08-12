@@ -54,5 +54,5 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 - Optimize gender targeting by maintaining strong exposure to both male and female audiences, but prioritize males for conversion campaigns or retargeting efforts.
 - Remove the budget for interest segments (7, 8, 19, 24, 25, 30, 63, and 65) under Campaign A, as they have generated zero purchases (Approved Conversions). Additionally, consider reducing or reallocating ad spend from the lowest-performing segments—20 under Campaign A, 22 and 27 under Campaign B, and 22 and 23 under Campaign C. Redirect these funds to the top-performing segments (101, 29, 16, 15, and 107) to maximize ROI (return on investment).
 - Conduct further analysis on the customer journey and messaging resonance to understand why males exhibit higher purchase conversion rates and leverage those insights for campaign optimization.
-- Implement ongoing campaign monitoring and optimization based on real-time performance data to continually refine audience targeting and messaging for maximum cost efficiency and return on ad spend.
+- Implement ongoing campaign monitoring and optimization based on real-time performance data to continually refine audience targeting and messaging for maximum cost efficiency and ROAS (return on ad spend).
 
