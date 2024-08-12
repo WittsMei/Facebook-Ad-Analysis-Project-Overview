@@ -17,7 +17,8 @@ Identify any missing values and analyze the correlation between key numeric metr
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/FacebookCampaignPerformanceDsahboard/FacebookadsPerformanceDashboard?publish=yes). This dashboard allows users to filter by age group, campaign type, gender, and interest, with a focus on marketing metrics, purchase metrics, and claim metrics.
 
 
-<img width="1025" alt="image" src="https://github.com/user-attachments/assets/9cfa6f80-5131-4db0-96fa-0d15ee8661c3">
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/c013c698-cbc9-4d06-bd3f-c106b6fe1a13">
+
 
 
 
