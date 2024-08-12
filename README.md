@@ -12,6 +12,10 @@ Identify any missing values and analyze the correlation between key metrics and 
 
 
 ## North Star Metics and Dimensions
+- **Sales**: Avg purchase, CPA(Cost per Acquisition)
+- **Gender Targeting**:
+- **Age Targeting**:
+- **Interest Targeting**:
 
 
 
