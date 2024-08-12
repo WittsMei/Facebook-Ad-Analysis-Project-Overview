@@ -12,6 +12,8 @@ Identify any missing values and analyze the correlation between key metrics and 
 ## Dashboard
 
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/FacebookCampaignPerformanceDsahboard/FacebookadsPerformanceDashboard?publish=yes).
+<img width="1611" alt="image" src="https://github.com/user-attachments/assets/bfe3c2f6-4855-457d-8e0a-1aff8526f983">
+
 
 
 
