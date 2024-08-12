@@ -22,7 +22,7 @@ Identify any missing values and analyze the correlation between key metrics and 
 ## Summary of Insights
 
 ### Age Targeting
-- The 45-49 age group had the highest number of ad clicks. 
+- The 45-49 age group had the most impressions and the highest number of ad clicks. 
 - Despite allocating the highest ad spend to the 45-49 age group, the 30-34 age segment delivered almost twice as many Approved Conversions. Reallocating a larger portion of the budget towards the 30-34 age group could be more cost-effective.
 
 ### Gender Targeting
