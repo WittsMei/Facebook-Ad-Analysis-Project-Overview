@@ -29,8 +29,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 - **Conversion & Cost**: Avg purchase (Avg Approved Conversion), Avg spent, CPA (Cost per Acquisition)
 - **Gender Targeting**: Male, Female
 - **Age Targeting**: 30-34, 35-39, 40-44, 45-49
-- **Interest Targeting**: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile)
-
+- **Interest Targeting**: A code specifying the category of the person’s interest (based on their Facebook public profile)
 
 
 ## Summary of Insights
