@@ -34,16 +34,16 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ## Summary of Insights
 
-### Age Targeting
+#### Age Targeting
 - The 45-49 age group received the most impressions and the highest number of ad clicks. 
 - Despite allocating the highest ad spend to the 45-49 age group, the 30-34 age segment delivered almost twice as many purchases (Approved Conversions).
 
-### Gender Targeting
+#### Gender Targeting
 - The gender-based spent allocation reveals that spending on males is nearly half of that on females.
 - While the female audience segment generated higher impressions, clicks, and inquiries (Total Conversion), the male segment achieved nearly equal purchases (Approved Conversions). This suggests that males may have a higher conversion rate from inquiry to purchase.
 
 
-### Interest Targeting
+#### Interest Targeting
 - Under Campaign A, interest segments 7, 8, 19, 24, 25, 30, 63, and 65 resulted in 0 purchases (Approved Conversions). Interestingly, segments 63 and 65 account for the highest spent within the campaign.
 - Interest segment 20 in Campaign A, along with segments 22 and 27 in Campaign B and segments 22 and 23 in Campaign C, have yielded the lowest average purchases, approximately 0.3 to 0.4, across each campaign. However, the costs for these segments are nearly double or even triple those associated with the segments that have the highest average purchases (Avg Approved Conversions). This indicates that these segments are underperforming in terms of cost-efficiency and may not be delivering a favorable ROI.
 - Across all campaigns, the interests with codes 101, 29, 16, 15, and 107 drove the highest Approved Conversions. Focusing more ad spend on these interest segments could yield a higher return on investment.
