@@ -2,6 +2,10 @@
 
 ## The goal of this project is to investigate the performance of Facebook marketing campaigns and surface recommendations for future budget allocation across all campaigns, with a focus on maximizing sales conversions through social media advertising.
 
+**Founded in 2004, Facebook has grown into one of the world’s largest social media platforms, boasting billions of active users globally.** As a key player in digital advertising, Facebook offers businesses unparalleled access to a vast and diverse audience through its robust advertising tools. These tools enable companies to target specific demographics, interests, and behaviors, making Facebook an essential platform for businesses aiming to drive sales and engage with their customers effectively.
+
+Facebook concentrated on refining its advertising strategies, launching innovative campaign formats, and introducing advanced targeting features to help businesses maximize their return on investment (ROI). By leveraging extensive data and insights, Facebook’s marketing team strives to optimize ad performance and enhance the effectiveness of social media advertising. The company’s primary objectives include 1) improving the overall efficiency of ad spend and 2) increasing sales conversions across different customer segments.
+
 ## Data Cleaning & Exploratory Data Analysis
 
 Identify any missing values and analyze the correlation between key numeric metrics. For more details, click [here](https://github.com/WittsMei/Facebook-Sales-Conversion-Optimization./blob/main/Facebook%20Campaign%20Data%20Cleaning.ipynb).
